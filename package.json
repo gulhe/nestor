@@ -1,0 +1,29 @@
+{
+  "name": "nestor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/main/nestor.js",
+  "scripts": {
+    "test": "ava src/test/*.js --verbose",
+    "test:watch": "ava src/test/*.js --verbose --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulhe/nestor.git"
+  },
+  "keywords": [
+    "silly",
+    "object",
+    "functions",
+    "trollol"
+  ],
+  "author": "GuLhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulhe/nestor/issues"
+  },
+  "homepage": "https://github.com/gulhe/nestor#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
